@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kwyn10
-- 👀 I’m interested in webdesign, programming, homeautomation, 8/16bit art, cryptocurrency.
-- 🌱 I’m currently learning  html/css/javascript, python, CompTia A+
+- 👀 I’m interested in webdesign, programming, robots, and automation.
+- 🌱 I’m currently learning  html/css/javascript, python, node.js, arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
